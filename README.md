@@ -1,4 +1,4 @@
-**Computer Vision Project: Detection of hand and Classification of hand sign**
+**Computer Vision Project: Detection of hand and Classification of hand signs**
 
 Dependencies:
 - cvzone
