@@ -3,6 +3,7 @@ from cvzone.HandTrackingModule import HandDetector
 from cvzone.ClassificationModule import Classifier
 import numpy as np
 import math
+import sys
 
 # Step Six: Classify (by sending to Model)
 # Step Seven: Display Result
@@ -41,6 +42,7 @@ while True:
             imgWhite[:, wGap:wCal + wGap] = imgResize  # Overlay
             prediction, index = classifier.getPrediction(img)
             print(prediction, index)
+            sys.stdout.flush()
         else:
             k = imgSize / w
             hCal = math.ceil(k * h)

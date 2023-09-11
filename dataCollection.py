@@ -52,7 +52,7 @@ while True:
         cv2.imshow("ImageWhite", imgWhite)
 
     cv2.imshow("Image", img)  # Display the captured frame
-    key = cv2.waitKey(1) & 0xFF  # Mask to isolate the key code
+    key = cv2.waitKey(1)  # Mask to isolate the key code
     # Save on s click
     if key == ord("s"):
         counter += 1

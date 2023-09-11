@@ -3,3 +3,4 @@
 Dependencies:
 - cvzone
 - mediapipe
+- Tensorflow 2.9.1
