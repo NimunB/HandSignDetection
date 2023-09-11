@@ -8,6 +8,7 @@ import time
 # Step Two: Detect Hand
 # Step Three: Crop Hand and Overlay onto Square
 # Step Four: Save Images and Data Collection
+# Step Five: Training Model
 
 cap = cv2.VideoCapture(0)  # Capture object - default camera (built-in webcam) should be used.
 detector = HandDetector(maxHands=1)
