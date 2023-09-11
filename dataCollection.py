@@ -2,16 +2,22 @@ import cv2
 from cvzone.HandTrackingModule import HandDetector
 import numpy as np
 import math
+import time
 
 # Step One: Webcam
 # Step Two: Detect Hand
-# Step Three: Crop Hand
+# Step Three: Crop Hand and Overlay onto Square
+# Step Four: Save Images and Data Collection
 
 cap = cv2.VideoCapture(0)  # Capture object - default camera (built-in webcam) should be used.
 detector = HandDetector(maxHands=1)
 
 offset = 20
-imgSize = 300
+imgSize = 30
+
+folder = "Data/G"
+counter = 0
+
 while True:
     success, img = cap.read()  # Capture a frame from the webcam
     hands, img = detector.findHands(img)  # Find Hands
@@ -45,4 +51,9 @@ while True:
         cv2.imshow("ImageWhite", imgWhite)
 
     cv2.imshow("Image", img)  # Display the captured frame
-    cv2.waitKey(1)  # 1 second delay
+    key = cv2.waitKey(1) & 0xFF  # Mask to isolate the key code
+    # Save on s click
+    if key == ord("s"):
+        counter += 1
+        cv2.imwrite(f'{folder}/Image_{time.time()}.jpg', imgWhite)  # f string
+        print(counter)
