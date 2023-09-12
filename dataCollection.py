@@ -14,7 +14,7 @@ cap = cv2.VideoCapture(0)  # Capture object - default camera (built-in webcam) s
 detector = HandDetector(maxHands=1)
 
 offset = 20
-imgSize = 30
+imgSize = 300
 
 folder = "Data/G"
 counter = 0
