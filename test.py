@@ -55,4 +55,4 @@ while True:
         cv2.imshow("ImageWhite", imgWhite)
 
     cv2.imshow("Image", img)  # Display the captured frame
-
+    cv2.waitKey(1)
