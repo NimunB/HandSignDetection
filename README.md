@@ -10,14 +10,25 @@ This model is trained to classify letters A to G of American Sign Language.
 - Tensorflow 2.9.1
 
 ### Relevant Files and Folders:
-`dataCollection.py`: This is a program which you can run to save hand signs in the designated folder. Pressing s will take a snapshot of the hand.
-`test.py`: This is a program which you can run to classify your hand sign in real-time using the machine learning model. It will generate a pink rectangle around your hand and will have the letter the sign stands for above. 
-`Data/`: This folder contains folders of letters A through G with ~300 images of me making that sign, which was used for training purposes.
-`Model/keras_model.h5`: This file contains the machine learning model from Teachable Machine. It is trained to classify letters A to G of American Sign Language. 
+- `dataCollection.py`: This is a program which you can run to save hand signs in the designated folder. Pressing s will take a snapshot of the hand.
+- `test.py`: This is a program which you can run to classify your hand sign in real-time using the machine learning model. It will generate a pink rectangle around your hand and will have the letter the sign stands for above. 
+- `Data/`: This folder contains folders of letters A through G with ~300 images of me making that sign, which was used for training purposes.
+- `Model/keras_model.h5`: This file contains the machine learning model from Teachable Machine. It is trained to classify letters A to G of American Sign Language. 
 
 ## Steps:
-### 1) Get Webcam set up
-### 2) Detect Hand
-### 3) Crop Hand and Overlay onto Square
-### 4) Save Images and Data Collection
-### 5) Step Five: Training Model
+### 1) Detect Hand
+<img width="1440" alt="Screen Shot 2023-09-10 at 12 45 55 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/94bd7db9-c552-4653-a0bd-1a4faf002e98">
+
+### 2) Crop Hand and Overlay onto Square
+<img width="1440" alt="Screen Shot 2023-09-10 at 2 57 35 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/fad5312f-dbe1-45ef-9291-473effd32636">
+
+<img width="1119" alt="Screen Shot 2023-09-10 at 11 14 45 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/93a6bde5-aeec-448d-bafa-a00cc38b9869">
+
+### 3) Save Images and Data Collection 
+
+
+### 4) Training Model
+
+<img width="1284" alt="Screen Shot 2023-09-10 at 11 52 48 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/3f17c9e1-5c4d-4e8c-8984-24a84a026e34">
+
+### 5) Apply Model
