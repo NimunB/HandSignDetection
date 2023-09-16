@@ -1,4 +1,4 @@
-# Computer Vision Project: Detection of hand and Classification of hand signs
+# Computer Vision Project: Detection and Classification of ASL hand signs
 
 This is a project that I completed in order to introduce myself to computer vision. I used OpenCV and CVZone's Hand Tracking Module to detect and capture various hand signs from American Sign Language (ASL). I then used Google's Teachable Machine to generate a machine learning model, which I applied to classify the hand signs in real-time. My goal is to expand this project and use PyTorch to create, train, and utilize a model using transfer learning. I also plan to evaluate my model in greater depth. 
 
