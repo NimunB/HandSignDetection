@@ -17,7 +17,7 @@ This model is trained to classify letters A to G of American Sign Language.
 
 ## Steps:
 ### 1) Detect Hand
-<img width="1440" alt="Screen Shot 2023-09-10 at 12 45 55 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/94bd7db9-c552-4653-a0bd-1a4faf002e98">
+<img width="1281" alt="Screen Shot 2023-09-10 at 12 45 55 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/9ca29a2e-6290-43e2-9eb7-b5093002163b">
 <p align="center"><i>Using CVZone's Hand Tracking Module</i></p>
 
 ### 2) Crop Hand and Overlay onto Square
