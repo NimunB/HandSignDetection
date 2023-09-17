@@ -21,7 +21,7 @@ This model is trained to classify letters A to G of American Sign Language.
 <p align="center"><i>Using CVZone's Hand Tracking Module</i></p>
 
 ### 2) Crop Hand and Overlay onto Square
-<img width="1440" alt="Screen Shot 2023-09-10 at 2 57 35 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/fad5312f-dbe1-45ef-9291-473effd32636">
+<img width="1438" alt="Screen Shot 2023-09-10 at 2 57 35 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/60b5c83f-bec8-4496-b250-2ed68033d7eb">
 <p align="center"><i>Cropping to square</i></p>
 
 <img width="1438" alt="Screen Shot 2023-09-10 at 2 57 35 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/60b5c83f-bec8-4496-b250-2ed68033d7eb">
