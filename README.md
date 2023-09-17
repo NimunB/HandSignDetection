@@ -24,9 +24,8 @@ This model is trained to classify letters A to G of American Sign Language.
 <img width="1438" alt="Screen Shot 2023-09-10 at 2 57 35 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/60b5c83f-bec8-4496-b250-2ed68033d7eb">
 <p align="center"><i>Cropping to square</i></p>
 
-<img width="1438" alt="Screen Shot 2023-09-10 at 2 57 35 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/60b5c83f-bec8-4496-b250-2ed68033d7eb">
+<img width="1119" alt="Screen Shot 2023-09-10 at 11 14 45 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/6c5f5a7f-f2a6-4828-8e9f-38988860c90f">
 <p align="center"><i>Filling background with white to stabilize dataset</i></p>
-
 
 ### 3) Save Images and Data Collection 
 Ran `dataCollection.py` and clicked s to capture around 300 images of each hand sign, from A through G. 
@@ -36,3 +35,12 @@ Ran `dataCollection.py` and clicked s to capture around 300 images of each hand 
 <img width="1284" alt="Screen Shot 2023-09-10 at 11 52 48 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/3f17c9e1-5c4d-4e8c-8984-24a84a026e34">
 
 ### 5) Apply Model
+
+<img width="1440" alt="Screen Shot 2023-09-16 at 10 33 14 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/25a3c8e1-ee75-4e27-ac42-6c2aba15e69e">
+<img width="1440" alt="Screen Shot 2023-09-16 at 10 33 23 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/50c8f5f2-4fa0-41d8-8a52-0a7c9cd468b3">
+<img width="1440" alt="Screen Shot 2023-09-16 at 10 33 30 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/2fab3ef6-3ef6-43ee-9e49-053827b4cbbc">
+<img width="1440" alt="Screen Shot 2023-09-16 at 10 33 39 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/50af9ff0-8120-4d19-aa6a-ad0afee28d98">
+<img width="1440" alt="Screen Shot 2023-09-16 at 10 33 54 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/bff42518-d4df-4ff7-8738-12f0bc455eab">
+<img width="1440" alt="Screen Shot 2023-09-16 at 10 34 45 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/d86d5ae8-4db4-4adc-a08b-33e1ba1af2b8">
+<img width="1440" alt="Screen Shot 2023-09-16 at 10 36 43 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/4c184e4a-e835-4774-b43d-ffec822cc70c">
+
