@@ -18,14 +18,18 @@ This model is trained to classify letters A to G of American Sign Language.
 ## Steps:
 ### 1) Detect Hand
 <img width="1440" alt="Screen Shot 2023-09-10 at 12 45 55 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/94bd7db9-c552-4653-a0bd-1a4faf002e98">
+<p align="center"><i>Using CVZone's Hand Tracking Module</i></p>
 
 ### 2) Crop Hand and Overlay onto Square
 <img width="1440" alt="Screen Shot 2023-09-10 at 2 57 35 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/fad5312f-dbe1-45ef-9291-473effd32636">
+<p align="center"><i>Cropping to square</i></p>
 
-<img width="1119" alt="Screen Shot 2023-09-10 at 11 14 45 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/93a6bde5-aeec-448d-bafa-a00cc38b9869">
+<img width="1438" alt="Screen Shot 2023-09-10 at 2 57 35 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/60b5c83f-bec8-4496-b250-2ed68033d7eb">
+<p align="center"><i>Filling background with white to stabilize dataset</i></p>
+
 
 ### 3) Save Images and Data Collection 
-
+Ran `dataCollection.py` and clicked s to capture around 300 images of each hand sign, from A through G. 
 
 ### 4) Training Model
 
