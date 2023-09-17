@@ -35,13 +35,12 @@ Ran `dataCollection.py` and clicked s to capture around 300 images of each hand 
 <img width="1284" alt="Screen Shot 2023-09-10 at 11 52 48 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/3f17c9e1-5c4d-4e8c-8984-24a84a026e34">
 
 ### 5) Apply Model
-
-<img width="1280" alt="Screen Shot 2023-09-16 at 10 36 43 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/2f232831-9001-4e02-920f-d591d1f89aaf">
-<img width="1289" alt="Screen Shot 2023-09-16 at 10 34 45 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/6ecd6bd4-3119-49ad-b0f8-5b4f1e508c5d">
-<img width="1294" alt="Screen Shot 2023-09-16 at 10 33 54 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/34fd2239-5da0-463b-8810-6b281ace3f2b">
-<img width="1297" alt="Screen Shot 2023-09-16 at 10 33 39 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/bfc3f6d5-835c-4792-84b4-4938df94742f">
-<img width="1283" alt="Screen Shot 2023-09-16 at 10 33 30 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/22c57e55-c5c4-4f42-8f5f-37f845971034">
-<img width="1301" alt="Screen Shot 2023-09-16 at 10 33 23 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/ff861bf1-c644-43a0-ac9a-740d2e5ba7b5">
-<img width="1440" alt="Screen Shot 2023-09-16 at 10 33 14 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/eab190b2-ffb7-44bc-bbd6-a7ab4c3035de">
+<img width="1283" alt="Screen Shot 2023-09-16 at 10 33 14 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/4ed9ecb7-a6c1-46ba-9cef-1748eb0fa73c">
+<img width="1301" alt="Screen Shot 2023-09-16 at 10 33 23 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/d8653231-a135-4144-bc99-26d3f33e98d4">
+<img width="1283" alt="Screen Shot 2023-09-16 at 10 33 30 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/4b2d369e-de1e-4570-9d08-a57ee7cc2ad0">
+<img width="1297" alt="Screen Shot 2023-09-16 at 10 33 39 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/adaf50d6-c131-4dd2-9461-5e1307999ea5">
+<img width="1294" alt="Screen Shot 2023-09-16 at 10 33 54 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/63fd4aab-68dd-4672-8ea5-3d6e34967f06">
+<img width="1289" alt="Screen Shot 2023-09-16 at 10 34 45 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/d15f1bb9-ed96-454b-a0ec-d1dfeaff2cb1">
+<img width="1280" alt="Screen Shot 2023-09-16 at 10 36 43 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/aad475af-2d79-4cb5-9508-4994c5f337d5">
 
 Overall, the model achieved a 79% accuracy for this classification problem.
