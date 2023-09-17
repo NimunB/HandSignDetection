@@ -44,3 +44,4 @@ Ran `dataCollection.py` and clicked s to capture around 300 images of each hand 
 <img width="1440" alt="Screen Shot 2023-09-16 at 10 34 45 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/d86d5ae8-4db4-4adc-a08b-33e1ba1af2b8">
 <img width="1440" alt="Screen Shot 2023-09-16 at 10 36 43 PM" src="https://github.com/NimunB/HandSignDetection/assets/32827637/4c184e4a-e835-4774-b43d-ffec822cc70c">
 
+Overall, the model achieved a 79% accuracy for this classification problem.
